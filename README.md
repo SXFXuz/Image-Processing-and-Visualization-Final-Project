@@ -6,4 +6,4 @@ We implemented three image segmentation methods：
 - Chan-Vese model
 - Graph Cut
 
-Partners: [DaiNiu](https://github.com/super-dainiu), [SHAOYI](https://github.com/Tequila-Sunrise)
+Partners: [@DaiNiu](https://github.com/super-dainiu), [@SHAOYI](https://github.com/Tequila-Sunrise)
